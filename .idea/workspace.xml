@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4236ee11-58d1-4917-afaf-fbe7d65130c9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNote/com/joh/javanote/BigDecimalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaNote/com/joh/javanote/BigDecimalDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/joh/javanote/BigDecimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joh/javanote/BigDecimalDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

@@ -21,7 +21,7 @@ public class BigDecimalDemo {
         BigDecimal add = new BigDecimal("1.01").add(new BigDecimal("2.02"));
         System.out.println("a + b =" + add); //3.03
 
-        // 直接使用double类型初始化，精准度会出现问题
+        // 直接使用double类型初始化，精准度会出现问题。
         // 因精准度问题，尽量使用参数类型为String的构造函数。
         BigDecimal big1 = new BigDecimal(1.34);
         System.out.println(big1); //1.3400000000000000799360577730112709105014801025390625

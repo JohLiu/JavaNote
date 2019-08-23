@@ -9,4 +9,6 @@ java基础笔记
 
 - [java基础之NumberFormat的使用](note/java基础之NumberFormat的使用.md)
 
+- [java基础之BigDecimal的使用](./note/java基础之BigDecimal的使用.md)
+
 - [java基础之代码注释@see与{@link}](./note/java基础之代码注释@see与{@link}.md)
